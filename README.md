@@ -1,2 +1,12 @@
-# NitroFont-Rebooted
-A complete reboot of NitroShoe's flagship soundfont.
+# NitroFont Rebooted
+A complete reboot of NitroShoe's flagship soundfont. There are many ways it does better than NitroFont:
+
+- 90s MIDI vibes: NitroFont Rebooted is better at capturing the feeling associated with sound modules released throughout the 1990s, especially the Roland Sound Canvas series. Many instruments were given shorter decay and/or release times to closely match the Roland SC-55 in particular.
+- Studio-like sound: using the power of the SoundFont 2.04 specification's attenuation feature, basses were made louder than the rest of the instrumentation featured in the soundfont, thus allowing certain MIDI compositions to sound like studio recordings. A similar approach was used in SONiVOX's 24 MB sound bank.
+- Smart stereo width: each preset has cleverly picked reverb and chorus send levels, with the exception of the sound effects (presets 120-127). Basses and drums have little reverb compared to most other presets, while strings and synth pads have more pronounced reverb. The electric pianos and Fender Stratocaster guitar (aka clean guitar) have chorus as well. This enhances realism and introduces some stereo width to the affected instruments.
+- Clever special programming: many instruments (the piano, the celesta, the hammered dulcimer, to name a few) use velocity maps to play different samples at different velocity levels, enhancing realism and allowing these instruments to sound more dynamic, especially in MIDI compositions with humanization (round robins) in them. In addition to this, most instruments make cleverer use of modulators compared to the original NitroFont project, e.g., the vibrato speed is affected by the note number in wind instruments.
+- Creativity: I've taken some creative liberties when working on this soundfont. It has some intentional deviations from the General MIDI standard in order to give it some personality. For instance, who needs a Fantasia pad when you can have a harpsichord layered over synth strings?
+
+Currently, NitroFont Rebooted only has all 128 GM presets as well as a subset of the GS and GM2 instrument sets. The sound effect bank (preset 128:056) is currently not implemented either. These will be implemented in the future to make sure NitroFont Rebooted isn't too underwhelming compared to its predecessor.
+
+NitroFont Rebooted is available under the Creative Commons Attribution 4.0 International license (unlike NitroFont, which was licensed under Attribution-ShareAlike 4.0 International). See https://creativecommons.org/licenses/by/4.0/ for more information.
