@@ -37,3 +37,4 @@
 - Roland SC-55 (CS OnDev) (Duwindu Tharinda Perera)
 - Aspirin DX: Fairytale Edition (NeoSF2)
 - 90's Retro Vintage NEO (Yingchun Soul)
+- Roland MT-32 (GM remap) (Ziya Mete Demircan, hakerg)
