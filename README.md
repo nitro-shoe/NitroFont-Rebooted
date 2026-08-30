@@ -1,5 +1,5 @@
 # NitroFont Rebooted
-A complete reboot of NitroShoe's flagship soundfont. There are many ways it does better than NitroFont:
+A complete reboot of NitroShoe's flagship soundfont, taking the form of a cleverly programmed high-quality pseudo-General MIDI sound bank worth less than 50 MB of disk space. There are many ways it does better than NitroFont:
 
 - 90s MIDI vibes: NitroFont Rebooted is better at capturing the feeling associated with sound modules released throughout the 1990s, especially the Roland Sound Canvas series. Many instruments were given shorter decay and/or release times to closely match the Roland SC-55 in particular.
 - Studio-like sound: using the power of the SoundFont 2.04 specification's attenuation feature, basses were made louder than the rest of the instrumentation featured in the soundfont, thus allowing certain MIDI compositions to sound like studio recordings. A similar approach was used in SONiVOX's 24 MB sound bank.
