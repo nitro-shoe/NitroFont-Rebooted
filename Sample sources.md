@@ -1,3 +1,4 @@
+Sample sources:
 - GeneralUser GS (S. Christian Collins)
 - EAWpats (Jamisson Tavares)
 - Airfont 320 U (aka A320U) (Milton Paredes)
@@ -5,7 +6,6 @@
 - Creative 28MBGM (E-mu, Creative Labs)
 - FluidR3 (Frank Wen)
 - SGM (shandavid)
-- Creative 8MBGM Enhanced (holbred)
 - Roland SC-88 (Mr.Sanic)
 - SumterVox 3.0/3.3 (Roe_2012, gtrxAC, Romphonix Club)
 - Scratch 3.0 (MIT Media Lab)
@@ -36,8 +36,10 @@
 - Aspirin DX: Fairytale Edition (NeoSF2)
 - 90's Retro Vintage NEO (Yingchun Soul)
 - SgtPepperArc360 Official Soundfont (SgtPepperArc360)
+- RLNDGM (Roland Corp.)
 - LiteGM (Caed)
+- Super Princess Peach (Akira Fujiwara)
 
-Previous versions of NitroFont Rebooted also used samples from:
+FORMERLY:
 - HiDef (stgiga)
 - Roland MT-32 (GM remap) (Ziya Mete Demircan, hakerg)
