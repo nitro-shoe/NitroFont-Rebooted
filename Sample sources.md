@@ -1,5 +1,5 @@
 Sample sources:
-- GeneralUser GS (S. Christian Collins)
+- RIM 8100 (William Borges dos Santos)
 - EAWpats (Jamisson Tavares)
 - Airfont 320 U (aka A320U) (Milton Paredes)
 - Roland SC-55 (Trevor0402, Triaxis)
@@ -9,6 +9,7 @@ Sample sources:
 - Roland SC-88 (Mr.Sanic)
 - SumterVox 3.0/3.3 (Roe_2012, gtrxAC, Romphonix Club)
 - Scratch 3.0 (MIT Media Lab)
+- GeneralUser GS (S. Christian Collins)
 - MediaTek MTK6276 (William Borges dos Santos)
 - SONiVOX EAS (William Borges dos Santos)
 - Creative 8MBGM (E-mu, Creative Labs)
@@ -23,7 +24,6 @@ Sample sources:
 - Hyper-VSC (unknown author)
 - Super Mario 64 (OnuteWORLD Server)
 - Nokia 5140i (whoever uploaded this on Musical Artifacts; credited as simply "Nokia")
-- RIM 8100 (William Borges dos Santos)
 - Plants vs. Zombies (VladTheFatman)
 - Roland MV-30 (MAG2001)
 - Roland SC-55 (EmperorGrieferus)
