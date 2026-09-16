@@ -9,4 +9,4 @@ A complete reboot of NitroShoe's flagship soundfont, taking the form of a clever
 
 Currently, NitroFont Rebooted doesn't have all the melodic patches that the original NitroFont has. These will be implemented in the future to make sure NitroFont Rebooted isn't too underwhelming compared to its predecessor.
 
-NitroFont Rebooted is available under the Creative Commons Attribution 4.0 International license (unlike NitroFont, which was licensed under Attribution-ShareAlike 4.0 International). See https://creativecommons.org/licenses/by/4.0/ for more information.
+As of 4.0 beta 4, NitroFont Rebooted is available under the Creative Commons Attribution-ShareAlike 4.0 International license. See https://creativecommons.org/licenses/by-sa/4.0/ for more information.
