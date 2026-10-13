@@ -24,6 +24,7 @@ Sample sources:
 - Nokia 5140i (whoever uploaded this on Musical Artifacts; credited as simply "Nokia")
 - Smash Remix (VidBew)
 - Plants vs. Zombies (VladTheFatman)
+- Creative 8MBGM Enhanced (holbred)
 - Roland MV-30 (MAG2001)
 - Roland SC-55 (EmperorGrieferus)
 - Playersounds Compiled '23 (Playersounds)
