@@ -41,6 +41,7 @@ Sample sources:
 - RLNDGM (Roland Corp.)
 - LiteGM (Caed)
 - Super Princess Peach (Akira Fujiwara)
+- Mario Kart: Super Circuit (RunTheCoins)
 
 FORMERLY:
 - HiDef (stgiga)
