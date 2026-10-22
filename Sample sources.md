@@ -5,7 +5,6 @@ Sample sources:
 - SGM (shandavid)
 - Roland SC-88 (Mr.Sanic)
 - SumterVox 3.0/3.3 (Roe_2012, gtrxAC, Romphonix Club)
-- Scratch 3.0 (MIT Media Lab)
 - GeneralUser GS (S. Christian Collins)
 - MediaTek MTK6276 (William Borges dos Santos)
 - SONiVOX EAS (William Borges dos Santos)
@@ -46,3 +45,4 @@ Sample sources:
 FORMERLY:
 - HiDef (stgiga)
 - Roland MT-32 (GM remap) (Ziya Mete Demircan, hakerg)
+- Scratch 3.0 (MIT Media Lab)
