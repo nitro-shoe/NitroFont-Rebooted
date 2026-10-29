@@ -7,6 +7,4 @@ A complete reboot of NitroShoe's flagship soundfont, taking the form of a clever
 - **Clever special programming:** many instruments (the piano, the celesta, the hammered dulcimer, to name a few) use velocity maps to play different samples at different velocity levels, enhancing realism and allowing these instruments to sound more dynamic, especially in MIDI compositions with humanization (round robins) in them. In addition to this, most instruments make cleverer use of modulators compared to the original NitroFont project, e.g., the vibrato speed is affected by the note number in wind instruments.
 - **Creativity:** I've taken some creative liberties when working on this soundfont. It has some intentional deviations from the General MIDI standard in order to give it some personality. For instance, who needs a Fantasia pad when you can have a harpsichord layered over synth strings?
 
-Currently, NitroFont Rebooted doesn't have all the melodic patches that the original NitroFont has. These will be implemented in the future to make sure NitroFont Rebooted isn't too underwhelming compared to its predecessor.
-
 As of 4.0 beta 4, NitroFont Rebooted is available under the Creative Commons Attribution-ShareAlike 4.0 International license. See https://creativecommons.org/licenses/by-sa/4.0/ for more information.
