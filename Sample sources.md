@@ -39,6 +39,7 @@ Sample sources:
 - 90's Retro Vintage NEO (Yingchun Soul)
 - SgtPepperArc360 Official Soundfont (SgtPepperArc360)
 - RLNDGM (Roland Corp.)
+- Aspirin DX (Yingchun Soul)
 - Super Princess Peach (Akira Fujiwara)
 - Mario Kart: Super Circuit (RunTheCoins)
 - Airfont 340 (Milton Paredes)
